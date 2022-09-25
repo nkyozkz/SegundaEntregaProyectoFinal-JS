@@ -138,6 +138,20 @@ footer .footer-content .footer-redes li i {
     font-size: 1rem; 
 }
 
+.form-control {
+    margin-left: 20%;
+}
+
+.bigicon {
+    font-size: 35px;
+}
+
+.submit-btn {
+    color: white;
+    background-color: rgb(79, 137, 149);
+    margin-top: 20px;
+}
+
 #area-productos{
     display: flex;
     flex-wrap: wrap;
@@ -158,7 +172,7 @@ footer .footer-content .footer-redes li i {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background-color: tomato;
+    background-color: rgba(210, 202, 202, 0.735);
     border-radius: 10px;
     top: 10px;
 }
@@ -216,7 +230,25 @@ footer .footer-content .footer-redes li i {
     text-align: center;
 }
 
+.page-h1 {
+    font-weight: bold;
+    padding: 8px;
+    color: #f1f1f1;
+    background-color: #262626;
+    width: 75%;
+    margin-left: 12.5%;
+}
 
+.align-left {
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 2em;
+}
 
+.align-left h2 {
+    font-size: 2rem;
+}
 
-
+.align-left p {
+    font-size: 2vh;
+}
